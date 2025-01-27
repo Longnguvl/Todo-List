@@ -3,7 +3,7 @@ Development of a Todo List Web App.
 
 Todo List Report:
 
-1. How to Run the Application:
+1: How to Run the Application:
 
 To run the Todo List locally, please follow the steps below:
 
@@ -66,7 +66,7 @@ To run the Todo List locally, please follow the steps below:
 8. Access the Web App:
    Visit the Web app by going to `http://127.0.0.1:8000` in your browser.
 
-2. Project Overview and Used Tools:
+2: Project Overview and Used Tools:
 
 The Todo List is a task management application designed to help users manage their tasks efficiently. It provides users with functionalities to add, update, delete, and mark tasks as complete.
 
@@ -84,7 +84,7 @@ Used Tools and Technologies:
 
 - Alpine.js: A minimal framework for adding interactivity to the front-end (used with Livewire for handling some client-side actions).
 
-3. List of Features:
+3: List of Features:
 
 Below is a list of the key features of the Todo List:
 
@@ -120,7 +120,7 @@ Below is a list of the key features of the Todo List:
 10. Data Validation:
     - Laravel handles server-side validation for task input to ensure that only valid data is saved.
 
-4. Database Diagram (ERD):
+4: Database Diagram (ERD):
 
 Here is the Entity-Relationship Diagram (ERD) for the Todo List database:
 
@@ -143,7 +143,7 @@ Here is the Entity-Relationship Diagram (ERD) for the Todo List database:
 - Tasks: Contains task data like the task title, description, due date, and status (e.g., completed or pending).
 - Task_Users: This table is a join table that relates users to their tasks (since each user can have multiple tasks, and each task belongs to a single user).
 
-5. Additional Information:
+5: Additional Information:
 
 - Development Tools:
   - Laravel Artisan is used for running commands such as migrations, route generation, and seeding.
