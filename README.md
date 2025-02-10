@@ -91,23 +91,23 @@ Below is a list of the key features of the Todo List:
 1. User Registration and Authentication:
    - Allows users to create an account, log in, and manage their tasks.
    - Uses Laravel’s built-in authentication system (via Laravel Breeze).
-   ![Main Screen](Main Screen.png)
-   ![After logged in](After logged in.png)
+   ![Main Screen](https://github.com/user-attachments/assets/08ceee22-827c-4ccf-b60e-2e3263d49f7d)
+   ![After logged in](https://github.com/user-attachments/assets/4134c7c5-a5fe-4897-89b6-b2dfac65308e)
 
 2. Create, Edit, and Delete Tasks:
    - Users can add new tasks, edit existing ones, and remove tasks they no longer need.
-   ![Tasks added](Tasks added.png)
-   ![Task editing](Task editing.png)
-   ![Task deleted](Task deleted.png) 
+   ![Tasks added](https://github.com/user-attachments/assets/045ca970-d243-45c8-9f84-79a7cb3152c0)
+   ![Task editing](https://github.com/user-attachments/assets/ab0ca14c-d42e-4601-9096-ce98f55eb99b)
+   ![Task deleted](https://github.com/user-attachments/assets/c7eb2884-c234-4547-b058-5785dd71d659)
    
 3. Task Completion:
    - Tasks can be marked as "complete" or "incomplete", allowing users to easily track progress.
-   ![Mark task as completed](Mark task as completed.png)
+   ![Mark task as completed](https://github.com/user-attachments/assets/91ac5a4b-ca95-4865-88b9-d0f77131ac02)
 
 4. Task Filtering:
    - Users can filter tasks based on their completion status (e.g., "All", "Completed", "Incomplete").
-   ![Completed task list](Completed task list.png)
-   ![Incompleted task list](Incompleted task list.png)
+   ![Incompleted task list](https://github.com/user-attachments/assets/6666bb8f-38e5-45f6-8dc3-01887b3594af)
+   ![Completed task list](https://github.com/user-attachments/assets/727af4e8-9a8f-4eb2-ab83-14a0991803fc)
 
 5. Real-time Updates with Livewire:
    - Task updates (e.g., marking as completed, adding/editing tasks) are done in real-time without page reloads, using Laravel Livewire.
@@ -124,7 +124,7 @@ Below is a list of the key features of the Todo List:
 
 9. Search Functionality:
    - Users can search tasks by title to quickly find a specific task.
-   ![Searching task(s)](Searching task(s).png)
+   ![Searching task(s)](https://github.com/user-attachments/assets/777f41c9-f687-450e-b5a1-e54e8c34d9a2)
 
 10. Data Validation:
     - Laravel handles server-side validation for task input to ensure that only valid data is saved.
